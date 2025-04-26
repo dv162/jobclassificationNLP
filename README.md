@@ -31,3 +31,6 @@ OneHotEncoder for: Location, Function
 Overall Accuracy: 76%  
 Macro Avg F1-score: 0.39  
 Weighted Avg F1-score: 0.74
+
+# Classification report
+![Image](https://github.com/user-attachments/assets/2f4e3866-916f-4245-a188-53dc12329ecc)
